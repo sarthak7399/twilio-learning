@@ -9,6 +9,6 @@ This repository demonstrates the integration of Twilio Media Streams with a Fast
 - Ensure you have Python installed.
 - Install the required dependencies by running `pip install -r requirements.txt`.
 - Set up your Twilio account and obtain the necessary credentials.
-- Run the FastAPI server using `uvicorn main:app --reload`.
+- Run the FastAPI server using `uvicorn <filename>:app --reload`.
 - Configure your Twilio phone number to use the appropriate webhook URL.
 - Test the integration by making a call to your Twilio number.
