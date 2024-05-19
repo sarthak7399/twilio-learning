@@ -125,6 +125,7 @@ celerybeat.pid
 env/
 venv/
 ENV/
+twilioEnv
 env.bak/
 venv.bak/
 
