@@ -5,3 +5,8 @@ python-dotenv
 flask
 flask_sockets
 gevent
+speechrecognition 
+pyttsx3 
+gevent-websocket
+gtts
+pydub
